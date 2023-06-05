@@ -1,0 +1,6 @@
+alias ll='clear; ls -laFh --color=auto'
+alias c='clear'
+alias ..='cd ..'
+alias folder='xdg-open .'
+alias work='git pull && code .'
+alias ls='ls -lF'
