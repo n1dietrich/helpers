@@ -24,4 +24,6 @@ fi
 echo 'Install Visual Studio Code at: https://code.visualstudio.com/docs/?dv=linux64_deb'
 
 echo 'Install Docker at: https://docs.docker.com/desktop/install/linux-install/'
+echo '=====================================Check Ubuntu Version in sourcelist.d'
+echo '=====================================================Check in Virtual Box'
 
