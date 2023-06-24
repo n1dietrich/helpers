@@ -29,7 +29,7 @@ sudo apt update
 
 # PHP 8.2 und erforderliche Erweiterungen installieren
 sudo apt upgrade -y
-sudo apt install php-curl php8.2 -y
+sudo apt install php-curl php8.2 php8.2-xml -y
 
 # Composer installieren
 sudo apt install composer -y
