@@ -20,6 +20,9 @@ else
     echo "The source file .bash_aliases does not exist."
 fi
 
+# Create SSH Key for git
+# ssh-keygen -t ed25519 -C "n.dietrich1988@googlemail.com"
+
 
 echo 'Install Visual Studio Code at: https://code.visualstudio.com/docs/?dv=linux64_deb'
 
