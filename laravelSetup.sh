@@ -39,8 +39,14 @@ echo 'PHP 8.2 wurde installiert.'
 php --version
 
 echo 'Install Visual Studio Code at: https://code.visualstudio.com/docs/?dv=linux64_deb'
+echo '====================== List of Extensions ======================================='
+echo 'Auto Close Tag'
+echo 'Beautify Blade'
+echo 'Laravel Extra Intellisense'
+echo 'PHP'
+echo 'PHP Namespace Resolver'
+echo 'Tailwind CSS IntelliSense'
 
 echo 'Install Docker at: https://docs.docker.com/desktop/install/linux-install/'
 echo '=====================================Check Ubuntu Version in sourcelist.d'
 echo '==================================Check Nested VT .. & PAE in Virtual Box'
-
