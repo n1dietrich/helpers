@@ -46,6 +46,7 @@ echo 'Laravel Extra Intellisense'
 echo 'PHP'
 echo 'PHP Namespace Resolver'
 echo 'Tailwind CSS IntelliSense'
+echo 'Blade Syntax for PHP'
 
 echo 'Install Docker at: https://docs.docker.com/desktop/install/linux-install/'
 echo '=====================================Check Ubuntu Version in sourcelist.d'
